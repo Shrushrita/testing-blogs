@@ -1,4 +1,21 @@
 
+---
+config:
+  theme: 'base'
+  themeVariables:
+    fontFamily: 'Arial'
+    lineColor: '#b82323'
+    primaryTextColor: '#0b5955'
+    primaryColor: '#ffffba'
+    primaryBorderColor: '#000000'
+    secondaryTextColor: '#fc88f8'
+    secondaryColor: '#baffc9'
+    secondaryBorderColor: '#000000'
+    tertiaryTextColor: '#a599f7'
+    tertiaryColor: '#c2c2f0'
+    tertiaryBorderColor: '#000000'
+---
+
 # Testing Blogs and Wesbite with Great Articles
 Creating a collection of testing blogs and websites with some awesome testing related articles.
 
