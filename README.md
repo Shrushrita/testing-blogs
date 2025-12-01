@@ -45,7 +45,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
 |Tomi-Familoni|[url](https://github.com/Tomi-Familoni)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|thoughts from the test eye|[url](https://thetesteye.com/blog/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 
 ### This shall be the collection
@@ -133,4 +133,3 @@ Creating a collection of testing blogs and websites with some awesome testing re
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
-
