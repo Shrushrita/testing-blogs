@@ -46,6 +46,9 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |-------------|-----|------------|
 |Tomi-Familoni|[url](https://github.com/Tomi-Familoni)|Pending Through Review|
 |thoughts from the test eye|[url](https://thetesteye.com/blog/)|Pending Through Review|
+|The Green Report|[url](https://www.thegreenreport.blog/)|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 
 ### This shall be the collection
