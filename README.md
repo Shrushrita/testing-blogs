@@ -85,7 +85,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
-| |[url]()|Pending Through Review|
+|Think Like a Tester - Articles|[url](https://thinkingtester.com/articles/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 
