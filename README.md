@@ -6,14 +6,14 @@ Creating a collection of testing blogs and websites with some awesome testing re
 
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
-|A Seasoned Tester's Crystal Ball| [url](https://visible-quality.blogspot.com/)|Pending Through Review|
-|Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)|Pending Through Review|
-|Nicola Lindgren|[url](https://nicolalindgren.com/)|Pending Through Review|
-|Lead Test Include|[url](https://leadtestinclude.com/)|Pending Through Review|
-|On Test Automation|[url](https://www.ontestautomation.com/blog/)|Pending Through Review|
-|Chris James' Blog|[url](https://quii.dev/)|Pending Through Review|
-|Mark Vandervood|[url](https://vandervoord.net/)|Pending Through Review|
-|Learn Go with Tests|[url](https://github.com/quii/learn-go-with-tests)|Pending Through Review|
+|A Seasoned Tester's Crystal Ball| [url](https://visible-quality.blogspot.com/)|Pending Thorough Review|
+|Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)|Pending Thorough Review|
+|Nicola Lindgren|[url](https://nicolalindgren.com/)|Pending Thorough Review|
+|Lead Test Include|[url](https://leadtestinclude.com/)|Pending Thorough Review|
+|On Test Automation|[url](https://www.ontestautomation.com/blog/)|Pending Thorough Review|
+|Chris James' Blog|[url](https://quii.dev/)|Pending Thorough Review|
+|Mark Vandervood|[url](https://vandervoord.net/)|Pending Thorough Review|
+|Learn Go with Tests|[url](https://github.com/quii/learn-go-with-tests)|Pending Thorough Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
