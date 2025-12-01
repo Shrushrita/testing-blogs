@@ -9,7 +9,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)|Pending Through Review|
 |Nicola Lindgren|[url](https://nicolalindgren.com/)|Pending Through Review|
 |Lead Test Include|[url](https://leadtestinclude.com/)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|On Test Automation|[url](https://www.ontestautomation.com/blog/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
