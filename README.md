@@ -22,3 +22,18 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |-------------|-----|------------|
 |Community for C Developers|[url](https://www.throwtheswitch.org/)|Pending Through Review|
 | |[url]()|Pending Through Review|
+
+
+|Testing Blog | URL | Description|
+|-------------|-----|------------|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
+
+
+
+|Testing Blog | URL | Description|
+|-------------|-----|------------|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
