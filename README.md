@@ -10,6 +10,9 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Nicola Lindgren|[url](https://nicolalindgren.com/)|Pending Through Review|
 |Lead Test Include|[url](https://leadtestinclude.com/)|Pending Through Review|
 |On Test Automation|[url](https://www.ontestautomation.com/blog/)|Pending Through Review|
+|Chris James' Blog|[url](https://quii.dev/)|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
