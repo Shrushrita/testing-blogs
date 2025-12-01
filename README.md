@@ -1,5 +1,7 @@
+
+
 # Testing Blogs and Website with Great Articles
-Creating a collection of testing blogs and websites with some awesome testing related articles.
+<p align="center"> Creating a collection of testing blogs and websites with some awesome testing related articles.<p>
 
 ### This shall be the collection
 
