@@ -9,3 +9,4 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)||
 |Nicola Lindgren|[url](https://nicolalindgren.com/)||
 | |[url]()||
+| |[url]()||
