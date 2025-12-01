@@ -6,8 +6,8 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
 |A Seasoned Tester's Crystal Ball| [url](https://visible-quality.blogspot.com/)|Pending Through Review|
-|Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)||
-|Nicola Lindgren|[url](https://nicolalindgren.com/)||
+|Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)|Pending Through Review|
+|Nicola Lindgren|[url](https://nicolalindgren.com/)|Pending Through Review|
 | |[url]()||
 | |[url]()||
 | |[url]()||
