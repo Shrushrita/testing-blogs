@@ -56,7 +56,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
 |Software Testing Weekly|[url](https://softwaretestingweekly.com/)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|Software Testing Magazine|[url](https://www.softwaretestingmagazine.com/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 
 ### This shall be the collection
