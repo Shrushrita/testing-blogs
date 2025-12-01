@@ -75,7 +75,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
 |Satisfice - Blog|[url](https://www.satisfice.com/blog)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|Eurostar Software Testing - Blog|[url](https://huddle.eurostarsoftwaretesting.com/blog/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 
 ### This shall be the collection
