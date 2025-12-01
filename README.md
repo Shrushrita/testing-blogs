@@ -61,6 +61,9 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |-------------|-----|------------|
 |Tricentis - Learn|[url](https://www.tricentis.com/learn)|Pending Through Review|
 |Appium Pro - Editions|[url](https://appiumpro.com/editions)|Pending Through Review|
+|X-Ray Blog|[url](https://www.getxray.app/blog)|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 
 ### This shall be the collection
