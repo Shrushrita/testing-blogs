@@ -24,6 +24,9 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |-------------|-----|------------|
 |Community for C Developers|[url](https://www.throwtheswitch.org/)|Pending Through Review|
 |Martin Fowler|[url](https://martinfowler.com/)|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
 
 ### This shall be the collection
 
