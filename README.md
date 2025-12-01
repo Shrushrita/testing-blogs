@@ -47,7 +47,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Tomi-Familoni|[url](https://github.com/Tomi-Familoni)|Pending Through Review|
 |thoughts from the test eye|[url](https://thetesteye.com/blog/)|Pending Through Review|
 |The Green Report|[url](https://www.thegreenreport.blog/)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|Marie Cruz|[url](https://www.testingwithmarie.com/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 
@@ -66,7 +66,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Tricentis - Learn|[url](https://www.tricentis.com/learn)|Pending Through Review|
 |Appium Pro - Editions|[url](https://appiumpro.com/editions)|Pending Through Review|
 |X-Ray Blog|[url](https://www.getxray.app/blog)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|Testhouse - Resources|[url](https://www.testhouse.net/resources/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 
