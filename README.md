@@ -24,17 +24,20 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |-------------|-----|------------|
 |Community for C Developers|[url](https://www.throwtheswitch.org/)|Pending Through Review|
 |Martin Fowler|[url](https://martinfowler.com/)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|ploeh blog - danish software design|[url](https://blog.ploeh.dk/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 
-### This shall be the collection
+### Automation
 
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
 |Automation Panda|[url](https://automationpanda.com/)|Pending Through Review|
 |Automate The Planet - Blog|[url](https://www.automatetheplanet.com/blog/)|Pending Through Review|
 |Alexander On Test|[url](https://alexanderontesting.com/)|Pending Through Review|
+|ATA Learning|[url](https://adamtheautomator.com/)|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
 
 ### This shall be the collection
 
