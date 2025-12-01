@@ -7,4 +7,5 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |-------------|-----|------------|
 |A Seasoned Tester's Crystal Ball| [url](https://visible-quality.blogspot.com/)|Pending Through Review|
 |Holistic Testing Blog|[url](https://lisacrispin.com/agile-testing-blog/)||
-|Holistic Testing Blog|[]()||
+|Nicola Lindgren|[url](https://nicolalindgren.com/)||
+| |[url]()||
