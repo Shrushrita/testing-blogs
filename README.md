@@ -12,7 +12,6 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |On Test Automation|[url](https://www.ontestautomation.com/blog/)|Pending Through Review|
 |Chris James' Blog|[url](https://quii.dev/)|Pending Through Review|
 |Mark Vandervood|[url](https://vandervoord.net/)|Pending Through Review|
-|Community for C Developers|[url](https://www.throwtheswitch.org/)|Pending Through Review|
 |Learn Go with Tests|[url](https://github.com/quii/learn-go-with-tests)|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
@@ -26,6 +25,20 @@ Creating a collection of testing blogs and websites with some awesome testing re
 
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
+|Automation Panda|[url](https://automationpanda.com/)|Pending Through Review|
+|Automate The Planet - Blog|[url](https://www.automatetheplanet.com/blog/)|Pending Through Review|
+|Alexander On Test|[url](https://alexanderontesting.com/)|Pending Through Review|
+
+
+
+|Testing Blog | URL | Description|
+|-------------|-----|------------|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
+| |[url]()|Pending Through Review|
+
+|Testing Blog | URL | Description|
+|-------------|-----|------------|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
 | |[url]()|Pending Through Review|
@@ -34,6 +47,6 @@ Creating a collection of testing blogs and websites with some awesome testing re
 
 |Testing Blog | URL | Description|
 |-------------|-----|------------|
-| |[url]()|Pending Through Review|
-| |[url]()|Pending Through Review|
+|Tricentis - Learn|[url](https://www.tricentis.com/learn)|Pending Through Review|
+|Appium Pro - Editions|[url](https://appiumpro.com/editions)|Pending Through Review|
 | |[url]()|Pending Through Review|
