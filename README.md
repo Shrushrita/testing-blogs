@@ -1,8 +1,7 @@
 
 
 # Testing Blogs and Website with Great Articles
-<p align="center"> Creating a collection of testing blogs and websites with some awesome testing related articles.<p>
-<p style="color: #38761d;">Use the smaller of the bake pan.</p>
+Creating a collection of testing blogs and websites with some awesome testing related articles.
 
 ### This shall be the collection
 
