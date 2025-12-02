@@ -67,7 +67,7 @@ Creating a collection of testing blogs and websites with some awesome testing re
 |Appium Pro - Editions|[url](https://appiumpro.com/editions)|Pending Through Review|
 |X-Ray Blog|[url](https://www.getxray.app/blog)|Pending Through Review|
 |Testhouse - Resources|[url](https://www.testhouse.net/resources/)|Pending Through Review|
-| |[url]()|Pending Through Review|
+|Mike Harris' Testing and Quality Blog|[url](https://testandanalysis.home.blog/)|Pending Through Review|
 | |[url]()|Pending Through Review|
 
 ### This shall be the collection
